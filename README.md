@@ -18,4 +18,10 @@
 |[AKVQ-VL: Attention-Aware KV Cache Adaptive 2-Bit Quantization for Vision-Language Models](https://arxiv.org/abs/2501.15021)||||
 |[CalibQuant: 1-Bit KV Cache Quantization for Multimodal LLMs](https://arxiv.org/abs/2502.14882)||||
 |[Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models](https://arxiv.org/abs/2503.16257)||||
+
+
+|Paper|Conference|Author|Code|
+|:---:|:---:|:---:|:---:|
+|[A White Paper on Neural Network Quantization](https://arxiv.org/pdf/2106.08295)||||
+|[PrefixQuant: Eliminating Outliers by Prefixed Tokens for Large Language Models Quantization](https://arxiv.org/pdf/2410.05265)||||
 |[BitDecoding: Unlocking Tensor Cores for Long-Context LLMs Decoding with Low-Bit KV Cache](https://arxiv.org/abs/2503.18773)||||
